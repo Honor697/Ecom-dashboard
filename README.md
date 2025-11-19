@@ -15,7 +15,7 @@ This is a repository for a Full Stack E-Commerce + Dashboard & CMS: Next.js 13 A
 
 # [Frontend store url](https://buywithease.vercel.app/) 
 
-# [Frontend store source code](https://github.com/mrExplorist/e-store) 
+# [Frontend store source code]](https://github.com/Honor697/Ecom-dashboard.git) 
 
 
 
@@ -113,7 +113,7 @@ Full Stack E-Commerce + Dashboard & CMS project offers a comprehensive set of fe
 ### Cloning the repository
 
 ```shell
-https://github.com/mrExplorist/AdaptoCMS.git
+https://github.com/Honor697/Ecom-dashboard.git
 ```
 
 ### Install packages
